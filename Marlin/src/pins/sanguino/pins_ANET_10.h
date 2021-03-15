@@ -172,9 +172,6 @@
     #define BTN_EN1                           11
     #define BTN_EN2                           10
     #define BTN_ENC                           16
-    #define BOARD_ST7920_DELAY_1 DELAY_NS(0)
-    #define BOARD_ST7920_DELAY_2 DELAY_NS(63)
-    #define BOARD_ST7920_DELAY_3 DELAY_NS(125)
     #define STD_ENCODER_PULSES_PER_STEP        4
     #define STD_ENCODER_STEPS_PER_MENU_ITEM    1
   #endif
